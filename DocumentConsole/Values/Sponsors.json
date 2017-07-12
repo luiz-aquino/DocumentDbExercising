@@ -1,0 +1,26 @@
+[
+{
+    "document": "E00001",
+    "type": "sponsor",
+    "name": "Empresa 1",
+    "properties": {
+        "city": "São paulo"
+    }
+},
+{
+    "document": "E00002",
+    "type": "sponsor",
+    "name": "Empresa 2",
+    "properties": {
+        "city": "São paulo"
+    }
+},
+{
+    "document": "E00003",
+    "type": "sponsor",
+    "name": "Empresa 3",
+    "properties": {
+        "city": "São paulo"
+    }
+}
+]

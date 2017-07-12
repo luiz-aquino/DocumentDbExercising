@@ -1,0 +1,32 @@
+[
+{
+    "document": "00001",
+    "type": "contact",
+    "name": "Contact 1",
+    "phones": [{ "FullNumber": "11235456687" }, {"Fullnumber": "11223554678"}],
+    "properties": {
+        "age": 22,
+        "city": "São Paulo"
+    } 
+},
+{
+    "document": "00002",
+    "type": "contact",
+    "name": "Contact 2",
+    "phones": [{ "FullNumber": "11631215421" }, {"Fullnumber": "11451456411"}],
+    "properties": {
+        "age": 23,
+        "city": "São Jose"
+    } 
+},
+{
+    "document": "00003",
+    "type": "contact",
+    "name": "Contact 3",
+    "phones": [{ "FullNumber": "11158432135" }, {"Fullnumber": "11964358453"}],
+    "properties": {
+        "age": 27,
+        "city": "Guarulhos"
+    } 
+}
+]
